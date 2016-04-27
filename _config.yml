@@ -1,7 +1,7 @@
 name: epandozi
 favicon: null
 layout_spectrum: 0.41588505264371634
-typography_spectrum: 0.2898489364888519
+typography_spectrum: 0.78691
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#97011c'
-    - '#100003'
-    - '#5e3ffd'
-    - '#ff6160'
-    - '#ffbe51'
-  brandStrength: 0.75
-  lightness: 0.9404594227671623
+    - '#e1eae5'
+    - '#314754'
+    - '#1b2d37'
+    - '#b7c5c4'
+    - '#625d5a'
+  brandStrength: 0.8125
+  lightness: 0.625
   saturation: 0.4815843412652612
   rhythmicContrast: 0.19376344373449683
 purpose: []
