@@ -1,19 +1,4 @@
-name: epandozi
-favicon: null
-layout_spectrum: 0.41588505264371634
 typography_spectrum: 0.78691
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e1eae5'
@@ -25,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.4815843412652612
   rhythmicContrast: 0.19376344373449683
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41588505264371634
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: epandozi
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Spun
 purpose: []
